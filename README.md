@@ -9,9 +9,8 @@ I am currently learning programming and improving my software engineering skills
 ## 🚀 Skills
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,git,linux" />
+<img src="https://skillicons.dev/icons?i=python,c,git" />
 </p>
-
 ---
 
 ## 💻 Currently Learning
