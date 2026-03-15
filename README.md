@@ -2,19 +2,29 @@
 
 🎓 Computer Science student based in Warsaw, Poland.
 
-I am currently learning programming and building projects to improve my software engineering skills.
+I am currently learning programming and improving my software engineering skills.
+
+---
+
+## 🚀 Skills
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,git,linux" />
+</p>
 
 ---
 
 ## 💻 Currently Learning
+
 - Python
 - C Programming
-- Algorithms & Problem Solving
+- Algorithms
 - Software Development Fundamentals
 
 ---
 
-## 🚀 Interests
+## 🎯 Interests
+
 - Software Engineering
 - Backend Development
 - Problem Solving
@@ -22,9 +32,21 @@ I am currently learning programming and building projects to improve my software
 
 ---
 
+## 📊 GitHub Stats
+
+![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=furk4nbaser&show_icons=true&theme=dark)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=furk4nbaser&theme=dark)
+
+---
+
 ## 📫 Contact
-LinkedIn: (www.linkedin.com/in/furkan-selim-başer-0619b6355)
-<!--
+
+LinkedIn: https://www.linkedin.com/in/furkan-selim-başer-0619b6355
 **furk4nbaser/furk4nbaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
