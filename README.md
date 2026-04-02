@@ -1,48 +1,51 @@
 # Hi, I'm Furkan Selim Baser 👋
 
-🎓 Computer Science student based in Warsaw, Poland.
-
-I am currently learning programming and improving my software engineering skills.
-
----
-
-## 🚀 Skills
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,git" />
-</p>
----
-
-## 💻 Currently Learning
-
-- Python
-- C Programming
-- Algorithms
-- Software Development Fundamentals
+🎓 Computer Science student based in Warsaw  
+💻 Focused on Backend Development & Software Engineering  
+🚀 Building real-world projects and improving problem-solving skills  
 
 ---
 
-## 🎯 Interests
-
-- Software Engineering
-- Backend Development
-- Problem Solving
-- Learning new technologies
-
----
-
-## 📊 GitHub Stats
-
-![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=furk4nbaser&show_icons=true&theme=dark)
+## 🛠️ Tech Stack
+- 💻 C++
+- 🐍 Python
+- 🗄️ SQL
+- 🔧 Git & GitHub
 
 ---
 
-## 🔥 GitHub Streak
+## 🚀 Projects
 
-![GitHub Streak](https://streak-stats.demolab.com?user=furk4nbaser&theme=dark)
+### 🔹 Producer-Consumer (C++)
+Multithreading problem implementation using shared buffer logic.
+
+### 🔹 Pipe Average System (C++)
+Process-based parallel computation using pipes.
+
+### 🔹 ATM Simulator (Python)
+Banking simulation with deposit, withdraw and input validation.
+
+### 🔹 Shopping List Manager (Python)
+CLI-based application with sorting, searching and statistics.
+
+### 🔹 Library Management System (SQL)
+Relational database system with tables, keys, procedures and triggers.
+
+---
+
+## 📈 Currently Learning
+- Backend development
+- API design
+- System programming
+
+---
+
+## 🎯 Goals
+- Improve backend skills
+- Build scalable applications
+- Get a software engineering internship
 
 ---
 
 ## 📫 Contact
-
-LinkedIn: https://www.linkedin.com/in/furkan-selim-başer-0619b6355
+- LinkedIn: https://www.linkedin.com/
