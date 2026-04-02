@@ -1,20 +1,15 @@
-<h1 align="center">Furkan Selim Baser</h1>
-<p align="center">
-Backend-Focused Computer Science Student  
-<br/>
-C++ • Python • SQL  
-<br/>
-Warsaw, Poland
-</p>
+# Hi 👋, I'm Furkan Selim Baser
 
-<p align="center">
-🚀 Building real-world projects & improving problem-solving skills
-</p>
+### Backend-Focused Computer Science Student
+
+💻 C++ • Python • SQL  
+📍 Warsaw, Poland  
+🚀 Building real-world projects  
 
 ---
 
 ## 🧠 About Me
-- Computer Science student with strong analytical thinking  
+- Computer Science student  
 - Focused on backend development and system programming  
 - Experience with multithreading, processes and databases  
 - Currently building practical software projects  
@@ -22,7 +17,7 @@ Warsaw, Poland
 ---
 
 ## ⚙️ Tech Stack
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=cpp,python,sqlite,git,github" />
 </p>
 
@@ -30,41 +25,40 @@ Warsaw, Poland
 
 ## 🚀 Projects
 
-### 🔹 Producer-Consumer (C++)
-Multithreading problem using shared buffer logic  
+**Producer-Consumer (C++)**  
+Multithreading problem using shared buffer  
 
-### 🔹 Pipe Average System (C++)
-Process-based parallel computation using pipes  
+**Pipe Average System (C++)**  
+Parallel computation using processes and pipes  
 
-### 🔹 ATM Simulator (Python)
-Banking simulation with validation and transaction logic  
+**ATM Simulator (Python)**  
+Banking simulation with validation  
 
-### 🔹 Shopping List Manager (Python)
-CLI-based application with sorting, searching and statistics  
+**Shopping List Manager (Python)**  
+CLI app with sorting and searching  
 
-### 🔹 Library Management System (SQL)
-Relational database with tables, relationships, procedures and triggers  
+**Library Management System (SQL)**  
+Database system with tables and relationships  
 
 ---
 
 ## 📈 Currently Learning
-- Backend Development (FastAPI / APIs)
-- System Programming (C++)
+- Backend Development (FastAPI)
+- System Programming
 - Database Design  
 
 ---
 
 ## 🎯 Goals
-- Become a backend-focused software engineer  
-- Build scalable applications  
+- Become a backend developer  
+- Build real-world applications  
 - Get a software engineering internship  
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furk4nbaser&show_icons=true&theme=tokyonight" />
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=furk4nbaser&show_icons=true&theme=tokyonight)
 
 ---
 
