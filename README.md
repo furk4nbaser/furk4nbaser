@@ -78,7 +78,7 @@ Building real-world projects & APIs
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furk4nbaser&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=furk4nbaser&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -87,6 +87,6 @@ Building real-world projects & APIs
 
 <p align="center">
   <a href="https://www.linkedin.com/in/furkan-selim-baser">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="60"/>
   </a>
 </p>
