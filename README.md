@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Furkan Selim Baser</h1>
-<h3 align="center">🚀 Backend-Focused Computer Science Student</h3>
-
+<h1 align="center">Furkan Selim Baser</h1>
 <p align="center">
-💻 C++ • Python • SQL <br>
-📍 Warsaw, Poland <br>
-🔥 Building real-world projects & APIs
+Backend-Focused Computer Science Student  
+<br/>
+C++ • Python • SQL  
+<br/>
+Warsaw, Poland
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=furk4nbaser&label=Profile%20views&color=0e75b6&style=flat" />
+🚀 Building real-world projects & improving problem-solving skills
 </p>
 
 ---
 
 ## 🧠 About Me
-- 🎓 Computer Science student with strong problem-solving mindset  
-- 💻 Focused on backend development and system-level programming  
-- ⚙️ Experience with multithreading, processes and databases  
-- 🚀 Currently building real-world applications and APIs  
+- Computer Science student with strong analytical thinking  
+- Focused on backend development and system programming  
+- Experience with multithreading, processes and databases  
+- Currently building practical software projects  
 
 ---
 
@@ -28,47 +28,45 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-🔹 <b>Producer-Consumer (C++)</b>  
-Multithreading implementation using shared buffer and synchronization concepts  
+### 🔹 Producer-Consumer (C++)
+Multithreading problem using shared buffer logic  
 
-🔹 <b>Pipe Average System (C++)</b>  
-Process-based parallel computation using pipes and inter-process communication  
+### 🔹 Pipe Average System (C++)
+Process-based parallel computation using pipes  
 
-🔹 <b>ATM Simulator (Python)</b>  
-CLI-based banking system with validation and transaction logic  
+### 🔹 ATM Simulator (Python)
+Banking simulation with validation and transaction logic  
 
-🔹 <b>Shopping List Manager (Python)</b>  
-Interactive CLI application with sorting, searching and statistics  
+### 🔹 Shopping List Manager (Python)
+CLI-based application with sorting, searching and statistics  
 
-🔹 <b>Library Management System (SQL)</b>  
-Relational database system with multiple tables, relationships, procedures and triggers  
+### 🔹 Library Management System (SQL)
+Relational database with tables, relationships, procedures and triggers  
 
 ---
 
 ## 📈 Currently Learning
-- 🔹 Backend Development (FastAPI / APIs)
-- 🔹 System Programming (C++)
-- 🔹 Database Design & Optimization  
+- Backend Development (FastAPI / APIs)
+- System Programming (C++)
+- Database Design  
 
 ---
 
 ## 🎯 Goals
-- 🚀 Become a backend-focused software engineer  
-- 💻 Build scalable and real-world applications  
-- 🎯 Secure a software engineering internship  
+- Become a backend-focused software engineer  
+- Build scalable applications  
+- Get a software engineering internship  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=furk4nbaser&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furk4nbaser&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Contact
-- 🔗 LinkedIn: https://www.linkedin.com/
+- LinkedIn: https://www.linkedin.com/
