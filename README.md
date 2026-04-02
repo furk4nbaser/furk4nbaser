@@ -1,13 +1,19 @@
 <h1 align="center">Hi, I'm Furkan Selim Baser 👋</h1>
 
 <p align="center">
-Backend-Focused Computer Science Student
+<b>Backend-Focused Computer Science Student</b>
 </p>
 
 <p align="center">
 C++ • Python • SQL <br>
 Warsaw, Poland <br>
 Building real-world projects & APIs
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/furkan-selim-ba%C5%9Fer-0619b6355">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50"/>
+  </a>
 </p>
 
 ---
@@ -17,12 +23,12 @@ Building real-world projects & APIs
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 </p>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,sqlite,git,github,vscode" />
@@ -33,14 +39,14 @@ Building real-world projects & APIs
 ## 🧠 About Me
 
 - Computer Science student in Warsaw  
-- Focused on backend development and system programming  
+- Focused on backend development & system programming  
 - Experience with multithreading, processes and databases  
-- Currently building real-world projects  
-- Open to collaboration and learning opportunities  
+- Building real-world projects and APIs  
+- Open to collaboration and learning  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 - [**Producer-Consumer (C++)**](https://github.com/furk4nbaser/cpp-producer-consumer)  
   Multithreading problem using shared buffer  
