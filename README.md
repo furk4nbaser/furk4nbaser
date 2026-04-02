@@ -78,7 +78,7 @@ Building real-world projects & APIs
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/furkan-selim-baser">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logoColor=white" height="120"/>
+  <a href="https://www.linkedin.com/in/furkan-selim-ba%C5%9Fer-0619b6355">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="120"/>
   </a>
 </p>
