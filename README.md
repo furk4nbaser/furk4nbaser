@@ -31,7 +31,7 @@ Building real-world projects & APIs
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,sqlite,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode" />
 </p>
 
 ---
