@@ -75,7 +75,7 @@ Building real-world projects & APIs
 
 ## 🎯 Goals
 
-- Become a backend developer  
+- Become a software developer  
 - Build scalable applications  
 - Get a software engineering internship  
 
