@@ -39,7 +39,7 @@ Building real-world projects & APIs
 ## 🧠 About Me
 
 - Computer Science student in Warsaw  
-- Focused on backend development & system programming  
+- Focused on software development & system programming  
 - Experience with multithreading, processes and databases  
 - Building real-world projects and APIs  
 - Open to collaboration and learning  
