@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Furkan Selim Baser 👋</h1>
 
 <p align="center">
-<b>Backend-Focused Computer Science Student</b>
+<b> Computer Science Student</b>
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ Building real-world projects & APIs
 
 ## 📈 Currently Learning
 
-- Backend Development (FastAPI)  
+- Software Development (FastAPI)  
 - System Programming  
 - Database Optimization  
 
