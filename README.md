@@ -1,40 +1,30 @@
-<h1 align="center">Hi, I'm Furkan Selim Baser 👋</h1>
+<div align="center">
+  <img src="https://icon.mzrdev.com/typing?text=Furkan%20Selim%20Baser&color=0e75b6&align=middle&height=60&showCursor=false" alt="Furkan Selim Baser Name Header" />
+  <br/>
+  <img src="https://icon.mzrdev.com/typing?lines=Computer%20Science%20Student;C%2B%2B%20%E2%80%A2%20Python%20%E2%80%A2%20SQL;Warsaw%2C%20Poland;Building%20real-world%20projects%20%26%20APIs&color=4B5563&showCursor=false&align=middle&height=50" alt="Software Developer Title" />
+</div>
 
-<p align="center">
-<b> Computer Science Student</b>
-</p>
+<div align="center">
+  <p align="center">
+    <img src="https://icon.mzrdev.com/social?variant=profile-views&username=furk4nbaser&compact=false&height=30" alt="Profile Views Counter" />&nbsp;<a href="https://github.com/furk4nbaser"><img src="https://icon.mzrdev.com/social?variant=github-followers&username=furk4nbaser&height=30" alt="GitHub Followers" /></a>&nbsp;<a href="https://www.linkedin.com/in/furkan-selim-ba%C5%9Fer-0619b6355"><img src="https://icon.mzrdev.com/badge?icon=LinkedIn&height=30" alt="LinkedIn Profile" /></a>
+  </p>
+</div>
 
-<p align="center">
-C++ • Python • SQL <br>
-Warsaw, Poland <br>
-Building real-world projects & APIs
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF" />
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/furkan-selim-ba%C5%9Fer-0619b6355">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50"/>
-  </a>
-</p>
+<br>
 
----
+<div align="center">
+  <img src="https://icon.mzrdev.com/badge?icon=CPP&height=30" alt="C++" />
+  <img src="https://icon.mzrdev.com/badge?icon=Python-Dark&height=30" alt="Python" />
+  <img src="https://icon.mzrdev.com/badge?icon=Git&height=30" alt="Git" />
+  <img src="https://icon.mzrdev.com/badge?icon=GitHub-Dark&height=30" alt="GitHub" />
+  <img src="https://icon.mzrdev.com/badge?icon=VSCode-Dark&height=30" alt="VSCode" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=furk4nbaser&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
-</p>
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode" />
-</p>
-
----
+<br>
 
 ## 🧠 About Me
 
@@ -79,12 +69,8 @@ Building real-world projects & APIs
 - Build scalable applications  
 - Get a software engineering internship  
 
----
+<br>
 
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/furkan-selim-ba%C5%9Fer-0619b6355">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="120"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://icon.mzrdev.com/stats?username=furk4nbaser&hide_border=true&background=0D1117&ring=0e75b6&fire=0e75b6&stroke=0e75b6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&no_bg=true" height="180" alt="GitHub Streak Stats" />
+</div>
